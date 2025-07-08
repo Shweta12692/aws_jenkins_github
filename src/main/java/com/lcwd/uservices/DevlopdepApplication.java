@@ -1,0 +1,13 @@
+package com.lcwd.uservices;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class DevlopdepApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(DevlopdepApplication.class, args);
+	}
+
+}
